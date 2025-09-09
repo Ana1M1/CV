@@ -11,7 +11,7 @@
 **Arte:** Pictura  
 **Sport:** fotbal  
 
-### Limbi Vprbite  
+### Limbi Vorbite  
 
 **1:** Romana  
 **2:** Rusa  
