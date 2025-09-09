@@ -6,4 +6,7 @@
 **nume:** Ciobanu  
 **prenume:** Ioan  
 
+## Hobby
 
+**Arte:** Pictura
+**Sport:** fotbal
