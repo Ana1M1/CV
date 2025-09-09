@@ -1,6 +1,7 @@
 # CV 
 
-***studiu***
+## Studiu
+
 **Scoala:** Ion si Doina Altea-Teodorovici  
 **Oras:** Chisinau  
 **nume:** Ciobanu  
@@ -11,9 +12,9 @@
 **Arte:** Pictura  
 **Sport:** fotbal  
 
-### Limbi Vorbite  
+## Limbi Vorbite  
 
-**1:** Romana  
-**2:** Rusa  
-**3:** Engleza  
-**4:** Franceza  
+1. Romana  
+1. Rusa  
+1. Engleza  
+1. Franceza  
