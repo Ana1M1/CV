@@ -8,5 +8,5 @@
 
 ## Hobby
 
-**Arte:** Pictura
-**Sport:** fotbal
+**Arte:** Pictura  
+**Sport:** fotbal  
