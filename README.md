@@ -13,7 +13,7 @@
 
 ### Limbi Vprbite  
 
-**1:** Romana
-**2:** Rusa
-**3:** Engleza
-**4:** Franceza
+**1:** Romana  
+**2:** Rusa  
+**3:** Engleza  
+**4:** Franceza  
