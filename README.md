@@ -1,5 +1,10 @@
 # CV 
 
+## Comtacte  
+
+**Telefon:** 069 000 333
+**Gmail:** IoanCiobanu33@gmail.com
+
 ## Studiu
 
 **Scoala:** Ion si Doina Altea-Teodorovici  
