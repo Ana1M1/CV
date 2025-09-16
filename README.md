@@ -4,6 +4,7 @@
 
 **Telefon:** 069 000 333  
 **Gmail:** IoanCiobanu33@gmail.com  
+**Fix:** 022 333 000  
 
 ## Studiu
 
