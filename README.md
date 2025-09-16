@@ -2,8 +2,8 @@
 
 ## Comtacte  
 
-**Telefon:** 069 000 333
-**Gmail:** IoanCiobanu33@gmail.com
+**Telefon:** 069 000 333  
+**Gmail:** IoanCiobanu33@gmail.com  
 
 ## Studiu
 
